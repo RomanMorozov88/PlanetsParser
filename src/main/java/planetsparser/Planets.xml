@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PLANETS>
+    <planet massUnits="(Earth = 1)" UNITS="days" UNITS="miles" UNITS="(Earth = 1)" UNITS="million miles">
+        <NAME>Mercury</NAME>
+        <MASS>.0553</MASS>
+        <DAY>58.65</DAY>
+        <RADIUS>1516</RADIUS>
+        <DENSITY>.983</DENSITY>
+        <DISTANCE>43.4</DISTANCE>
+    </planet>
+    <planet massUnits="(Earth = 1)" UNITS="days" UNITS="miles" UNITS="(Earth = 1)" UNITS="million miles">
+        <NAME>Venus</NAME>
+        <MASS>.815</MASS>
+        <DAY>116.75</DAY>
+        <RADIUS>3716</RADIUS>
+        <DENSITY>.943</DENSITY>
+        <DISTANCE>66.8</DISTANCE>
+    </planet>
+    <planet massUnits="(Earth = 1)" UNITS="days" UNITS="miles" UNITS="(Earth = 1)" UNITS="million miles">
+        <NAME>Earth</NAME>
+        <MASS>1</MASS>
+        <DAY>1</DAY>
+        <RADIUS>2107</RADIUS>
+        <DENSITY>1</DENSITY>
+        <DISTANCE>128.4</DISTANCE>
+    </planet>
+</PLANETS>
